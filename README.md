@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](http://antzuhl.cn:4000/get/@tucaodashen.readme)
+![](http://antzuhl.cn:4000/get/@tucaodashen)
 <!--
 **tucaodashen/tucaodashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
