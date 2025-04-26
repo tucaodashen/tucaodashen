@@ -3,8 +3,12 @@
 ![info](https://github-readme-stats.vercel.app/api?username=tucaodashen&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 <br>
 ![](https://komarev.com/ghpvc/?username=tucaodashen&color=66ccff)
+<br>
 
 Hifumi Daisuki!
+<br>
+PrayStudio(祈愈社)开源内容发布账号，如果你找不到，那是因为我还没整理好awa
+
 <!--
 **tucaodashen/tucaodashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
