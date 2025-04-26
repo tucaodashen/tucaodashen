@@ -7,7 +7,14 @@
 
 Hifumi Daisuki!
 <br>
-PrayStudio(祈愈社)开源内容发布账号，如果你找不到，那是因为我还没整理好awa
+PrayStudio(祈愈社)开源内容发布账号,内容包括但不限于：
+- 翻译的同人志(中/英)
+- 组内工具(翻译助手，管理程序)源代码
+- 发布的程序代码
+- 官方网站静态页
+如果你找不到列表中的一些内容，说明这些内容仍在整理中，敬请期待qwq
+<br>
+Produce Reachable Antidote for You!
 
 <!--
 **tucaodashen/tucaodashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
