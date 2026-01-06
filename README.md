@@ -1,6 +1,6 @@
 ### 你好喵~
 
-![info](https://github-readme-stats.vercel.app/api?username=tucaodashen&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![GitHub Card](https://githubcard.com/tucaodashen.svg)
 <br>
 ![](https://komarev.com/ghpvc/?username=tucaodashen&color=66ccff)
 <br>
