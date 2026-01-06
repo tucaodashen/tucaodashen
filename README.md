@@ -1,7 +1,6 @@
 ### 你好喵~
 
 
-![]([https://komarev.com/ghpvc/?username=tucaodashen&color=66ccff](https://githubcard.com/tucaodashen.svg?d=6KLZ_9cY))
 <br>
 ![](https://komarev.com/ghpvc/?username=tucaodashen&color=66ccff)
 <br>
