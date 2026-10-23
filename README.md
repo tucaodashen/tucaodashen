@@ -17,7 +17,7 @@ PrayStudio(祈愈社)开源内容发布账号,内容包括但不限于：
 
 ## 正在开发中的项目(In Develop)
 
-- Hue 类[Koharu](https://github.com/mayocream/koharu)，[Krita](https://github.com/KDE/krita)的开源一站式漫画翻译，制作，发布工具。
+- MobType 类[Koharu](https://github.com/mayocream/koharu)，[Krita](https://github.com/KDE/krita)的开源一站式漫画翻译，制作，发布工具。
 - InvisibleVideoWatermark 积极维护中，正在为下一个大版本更新而努力
 
 <br>
